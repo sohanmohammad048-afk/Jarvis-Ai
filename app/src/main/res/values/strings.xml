@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="accessibility_desc">Lets JARVIS AI tap, scroll, read and type on screen, only when you turn it on.</string>
+</resources>
